@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ad6a10c-6ef1-43dc-9413-713fee1bcff9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\MavenRepository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\13048\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8 (2)" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1dydL0uRCKxrlzZNeYsrOMZuMHm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="E:/IDE/android" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="annotations" />
+      <recent name="reflection" />
+      <recent name="object" />
+      <recent name="collections" />
+      <recent name="set" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\2020第二学期作业\系统分析与设计\源代码\VideoStore6\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Hero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflection.Hero" />
+      <module name="VideoStore6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread2.PoolTest" />
+      <module name="VideoStore6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.Test" />
+      <module name="VideoStore6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="VideoStore6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Threadlocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread2.Threadlocal" />
+      <module name="VideoStore6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_VideoStore6" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61795" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Hero" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.PoolTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Threadlocal" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Threadlocal" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PoolTest" />
+        <item itemvalue="Application.Hero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ad6a10c-6ef1-43dc-9413-713fee1bcff9" name="Default Changelist" comment="" />
+      <created>1593401206852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593401206852</updated>
+      <workItem from="1593401208622" duration="1160000" />
+      <workItem from="1593486297979" duration="571000" />
+      <workItem from="1594263577610" duration="11178000" />
+      <workItem from="1594512714424" duration="573000" />
+      <workItem from="1594601741319" duration="9347000" />
+      <workItem from="1594713965365" duration="4971000" />
+      <workItem from="1594774794299" duration="1151000" />
+      <workItem from="1594866293008" duration="419000" />
+      <workItem from="1594866748572" duration="7684000" />
+      <workItem from="1595116780276" duration="11323000" />
+      <workItem from="1595206641717" duration="328000" />
+      <workItem from="1595207017840" duration="248000" />
+      <workItem from="1595207289548" duration="273000" />
+      <workItem from="1595207584575" duration="182000" />
+      <workItem from="1595207788155" duration="9250000" />
+      <workItem from="1596154722332" duration="174000" />
+      <workItem from="1596154924479" duration="466000" />
+      <workItem from="1596155414577" duration="262000" />
+      <workItem from="1596155700606" duration="36000" />
+      <workItem from="1596155758475" duration="6625000" />
+      <workItem from="1596173487383" duration="18134000" />
+      <workItem from="1596285719516" duration="12542000" />
+      <workItem from="1596675895959" duration="178000" />
+      <workItem from="1596676268263" duration="75971000" />
+      <workItem from="1596935448052" duration="136000" />
+      <workItem from="1596935632605" duration="416000" />
+      <workItem from="1596936112968" duration="33318000" />
+      <workItem from="1597195996277" duration="20000" />
+      <workItem from="1597196708133" duration="269000" />
+      <workItem from="1597197011286" duration="74258000" />
+      <workItem from="1597969987748" duration="8713000" />
+      <workItem from="1598233662819" duration="8616000" />
+      <workItem from="1598531390489" duration="28262000" />
+      <workItem from="1598922404910" duration="33134000" />
+      <workItem from="1599272426407" duration="14845000" />
+      <workItem from="1599484908193" duration="1841000" />
+      <workItem from="1599488218319" duration="1579000" />
+      <workItem from="1599531564921" duration="1894000" />
+      <workItem from="1599574027396" duration="1761000" />
+      <workItem from="1599616812583" duration="2304000" />
+      <workItem from="1599797115597" duration="2567000" />
+      <workItem from="1599961634380" duration="3197000" />
+      <workItem from="1601708538611" duration="2303000" />
+      <workItem from="1601778575300" duration="4853000" />
+      <workItem from="1601907553991" duration="3709000" />
+      <workItem from="1602170282633" duration="17849000" />
+      <workItem from="1603027574576" duration="2430000" />
+      <workItem from="1603081500543" duration="763000" />
+      <workItem from="1603089112022" duration="1394000" />
+      <workItem from="1603157825113" duration="26000" />
+      <workItem from="1603157917889" duration="638000" />
+      <workItem from="1603158856682" duration="323000" />
+      <workItem from="1603159393214" duration="904000" />
+      <workItem from="1603160452513" duration="5364000" />
+      <workItem from="1603166042494" duration="661000" />
+      <workItem from="1603166761125" duration="116000" />
+      <workItem from="1603200456696" duration="5779000" />
+      <workItem from="1603379511527" duration="1610000" />
+      <workItem from="1603948740234" duration="867000" />
+      <workItem from="1604112481218" duration="249000" />
+      <workItem from="1604112807279" duration="1277000" />
+      <workItem from="1604224432552" duration="108000" />
+      <workItem from="1604225515005" duration="1424000" />
+      <workItem from="1604298713998" duration="1251000" />
+      <workItem from="1604306093029" duration="2041000" />
+      <workItem from="1604323133384" duration="664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="720" y="70" key="#Inspections" timestamp="1599617556596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="720" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1599617556596" />
+    <state x="444" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603081642995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603081642995" />
+    <state x="874" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599045899219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="874" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599045899219" />
+    <state x="957" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1598848715337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="957" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598848715337" />
+    <state x="882" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596985061262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="882" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596985061262" />
+    <state width="403" height="438" key="DebuggerActiveHint" timestamp="1598696122168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="403" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1598696122168" />
+    <state x="548" y="110" key="FileChooserDialogImpl" timestamp="1604324615649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604324615649" />
+    <state width="1491" height="214" key="GridCell.Tab.0.bottom" timestamp="1603208652357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603208652357" />
+    <state width="1491" height="214" key="GridCell.Tab.0.center" timestamp="1603208652356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603208652356" />
+    <state width="1491" height="214" key="GridCell.Tab.0.left" timestamp="1603208652356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603208652356" />
+    <state width="1491" height="214" key="GridCell.Tab.0.right" timestamp="1603208652356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603208652356" />
+    <state width="1491" height="236" key="GridCell.Tab.1.bottom" timestamp="1603208493883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="236" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603208493883" />
+    <state width="1491" height="236" key="GridCell.Tab.1.center" timestamp="1603208493883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="236" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603208493883" />
+    <state width="1491" height="236" key="GridCell.Tab.1.left" timestamp="1603208493883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="236" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603208493883" />
+    <state width="1491" height="236" key="GridCell.Tab.1.right" timestamp="1603208493883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="236" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603208493883" />
+    <state x="407" y="109" key="NewModule_or_Project.wizard" timestamp="1603379574010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="109" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1603379574010" />
+    <state x="538" y="41" key="SettingsEditor" timestamp="1599617116890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="41" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599617116890" />
+    <state width="498" height="452" key="SwitcherDM" timestamp="1599058205403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="452" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1599058205403" />
+    <state x="755" y="0" width="781" height="824" key="com.intellij.ide.util.TipDialog" timestamp="1604323206677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="755" y="0" width="781" height="824" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1604323206677" />
+    <state x="701" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597971567086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="701" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1597971567086" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1602491686941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1602491686941" />
+    <state x="354" y="0" key="new project wizard" timestamp="1598971940554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="354" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598971940554" />
+    <state x="793" y="142" width="700" height="530" key="recent.locations.popup" timestamp="1599058062672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="793" y="142" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1599058062672" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599274180357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599274180357" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/Node.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/Node.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/Test1.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/627997 Java EE互联网轻量级框架整合开发— —SSM框架+源码/mysql-connector-java-5.1.8.jar!/com/mysql/jdbc/StatementImpl.class</url>
+          <line>436</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/627997 Java EE互联网轻量级框架整合开发— —SSM框架+源码/mysql-connector-java-5.1.8.jar!/com/mysql/jdbc/StatementImpl.class</url>
+          <line>404</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/MyHashMap.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadLocal.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadLocal.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadLocal.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/thread2/Threadlocal.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VideoStore6$test.ic" NAME="test Coverage Results" MODIFIED="1596246268580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/VideoStore6$MyHashMap.ic" NAME="MyHashMap Coverage Results" MODIFIED="1597237509390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hash.*</FILTER>
+    </SUITE>
+  </component>
+</project>
